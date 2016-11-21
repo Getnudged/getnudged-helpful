@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Getnudged Helpful ===
 Tags: poll, post,
 Requires at least: 3.0.1
 Tested up to: 4.6.1
