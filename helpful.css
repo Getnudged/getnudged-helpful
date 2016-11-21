@@ -1,0 +1,29 @@
+#helpful .helpful-content-heading {
+	display: block;	
+}
+
+#helpful .helpful-button {
+	display: inline-block;
+	min-width: 100px;
+	text-align: center;
+	padding: 5px 10px;
+	line-height: 1;
+	background: #f7f7f7;
+	color: #666;
+	text-decoration: none;
+	border: 2px solid #f7f7f7;
+	transition: all .2s ease-in-out;
+	margin-right: 10px;
+	border-radius: 3px;
+	font-size: 1.4rem;
+}
+
+#helpful .helpful-button:hover,
+#helpful .helpful-button:active,
+#helpful .helpful-button:focus {
+	color: #fff !important;
+	text-decoration: none;
+	background: #333;
+	border: 2px solid #333;
+	transition: all .2s ease-in-out;
+}
