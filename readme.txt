@@ -14,8 +14,6 @@ Integriert eine kleine Umrage unter Beiträgen, die den Besuchern der Seite das 
 
 Das Plugin kann im /wp-admin unter Einstellungen -> Helpful konfiguriert werden.
 
-`[optout]`
-
 == Installation ==
 
 Dieser Bereich erklärt Dir wie Du das Plugin installierst und aktivierst.
